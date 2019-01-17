@@ -1,25 +1,19 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/raspi.jpg
+title: Raspberry Pi Data Logger
+permalink: projects/raspi
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-1-1
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Raspberry Pi
+  - Sensors
+  - Python
+  - PostgreSQL
+summary: A raspberry pi data logger used for indoor energy and environmental monitoring applications.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+Currently, the use of [commercial data loggers](https://www.onsetcomp.com/products/data-loggers?creative=294992075747&keyword=%2Bonset%20%2Bhobo&matchtype=b&network=g&device=c&gclid=CjwKCAiAyfvhBRBsEiwAe2t_i-nSpQpSnHPNjdbXnWrRREDUyKLRAIy3FyBOUWZjbRd4cNSfuYOVlhoCYs8QAvD_BwE) add a significant cost burden to energy monitoring projects as often several units are necessary to cover a large area of interest.  The objective of this project was to design and develop a low-cost, accurate, and reliable data logger that can easily be reproduced to be used for the School of Architecture Environmental Design and Research Laboratory at UH Manoa.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+By collecting luminance, temperature, and relative humidity data, these data loggers serve as a reliable source of datasets to be used by the School of Architecture and its partner Hawaii Natural Energy Institute for future projects.  The data collected monitors the indoor conditions at project sites which will assist in evaluating the performance of these energy-efficient building design.  By providing valuable data measurements, researchers are able to analyze the given datasets and then make informed decisions on how to improve building design.
