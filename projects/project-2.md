@@ -5,7 +5,7 @@ image: images/raspi.jpg
 title: Raspberry Pi Data Logger
 permalink: projects/raspi
 # All dates must be YYYY-MM-DD format!
-date: 2018-1-1
+date: 2018-01-01
 labels:
   - Raspberry Pi
   - Sensors
