@@ -11,7 +11,7 @@ labels:
   - TensorFlow
   - Deep Learning
   - Sensors
-summary: Implemented a Convolution Nerural Network (CNN) model to recognize human activity based off of smartphone sensor data.
+summary: Implemented a Convolution Neural Network (CNN) model to recognize human activity based off of smartphone sensor data.
 ---
 <div>
   <img class="ui image" src="../images/har.png">
