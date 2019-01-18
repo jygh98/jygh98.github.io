@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/tf.jpeg
-title: Human Activity Recognition using smartphones
+title: Human Activity Recognition
 permalink: projects/har
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-01
@@ -11,7 +11,7 @@ labels:
   - TensorFlow
   - Deep Learning
   - Sensors
-summary: Implemented a Convolution Neural Network (CNN) model to recognize human activity based off of smartphone sensor data.
+summary: Trained Convolution Neural Network (CNN) to predict human activity using smartphone sensor data.
 ---
 <div>
   <img class="ui image" src="../images/har.png">
