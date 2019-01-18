@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/tuat.png
+image: images/tf.jpeg
 title: Human Activity Recognition using smartphones
 permalink: projects/har
 # All dates must be YYYY-MM-DD format!
