@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/har.png
+image: images/tuat.png
 title: Human Activity Recognition using smartphones
 permalink: projects/har
 # All dates must be YYYY-MM-DD format!
@@ -13,6 +13,9 @@ labels:
   - Sensors
 summary: Implemented a Convolution Nerural Network (CNN) model to recognize human activity based off of smartphone sensor data.
 ---
+<div>
+  <img class="ui image" src="../images/har.png">
+</div>
 
 The goal of the project was to build a recognition system using deep learning that would be able to identify the type of movement (walking, running, jogging, sitting, walking-up stairs, walking-down stairs) that an individual was doing in real-time.  This project was done as part of my exchange program at Tokyo University of Agriculture and Technology in Summer 2018.  During my stay, I had the opportunity to work under Professor Tanaka in his laboratory along with other international students on this project.
 
