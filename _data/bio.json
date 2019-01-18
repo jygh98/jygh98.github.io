@@ -38,7 +38,13 @@
     {
       "name": "computer vision",
       "keywords": [ 
-        "OpenCV"
+        "OpenCV",
+        "image processing"
+      ]
+    },
+    {
+      "name": "robotics",
+      "keywords": [ 
       ]
     }
   ],
@@ -85,45 +91,24 @@
       "endDate": "2018-06-01",
       "summary": "",
       "highlights": [
-        "Developed in-house solution to replace Onset HOBO data loggers that replicated accuracy and reduced cost by $100 per unit using Raspberry Pi",
-        "Implemented user authorization into an existing web application using Google OAuth 2.0 API",
-        "Maintained a web application to manage thermal comfort surveys using Flask web framework"
+        "Developed Raspberry Pi data logger to replace commercial solution that replicated accuracy and reduced cost by $100 per unit",
+        "Implemented Google OAuth 2.0 API for user authorization into an existing web application",
+        "Maintained Flask web application to manage thermal comfort surveys for clients"
       ]
     },
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "Tokyo University of Agriculture and Technology",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Visiting Undergraduate Researcher",
+      "startDate": "2018-07-01",
+      "endDate": "2018-08-16",
+      "summary": "Sensor-based activity recognition research surrounding the use of smart devices to predict human activity",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Developed android application to integrate trained TensorFlow model to display predicted activity",
+        "Implemented IIR filter on raw accelerometer and gyroscope readings to minimize signal noise"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     }
   ],
   "references": [
