@@ -21,7 +21,7 @@ By collecting luminance, temperature, and relative humidity data, these data log
 As the individual contributor to this project, I was responsible for all aspect of the project.  This included starting from deciding what parts (microcontroller, sensors) we should buy to programming, testing, and finally deploying the unit.  
 In terms of design skills, since this project was built completely from scratch, I learned how to implement features in small increments and learned how to effectively break down tasks into manageable sections.
 
-Picture of data logger with housing
+Picture of data logger housing (without electronics)
 <div>
   <img class="ui image" src="../images/box.JPG">
 </div>
