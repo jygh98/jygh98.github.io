@@ -13,7 +13,7 @@ labels:
 summary: My team developed a robotic mouse for our sophomore level project.
 ---
 
-<div class="ui small rounded images">
+<div>
   <img class="ui image" src="../images/micromouse.png">
 </div>
 
