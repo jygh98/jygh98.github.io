@@ -107,7 +107,7 @@
       "summary": "Sensor-based activity recognition research surrounding the use of smart devices to predict human activity",
       "highlights": [
         "Developed android application to integrate trained TensorFlow model to display predicted activity",
-        "Implemented IIR filter on raw accelerometer and gyroscope readings to minimize signal noise"
+        "Implemented low-pass filter on raw accelerometer and gyroscope readings to minimize signal noise"
       ]
     }
   ],
