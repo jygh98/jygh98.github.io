@@ -9,13 +9,15 @@ labels:
   - Learning
   - Javascript
 ---
-<img class="ui large right floated rounded image" src="../images/js.png">
+
 Before I can dive into the world of web development and attempt to build my very
 first website, I realized I needed to first learn a bit of HTML, CSS, and JavaScript.  Although
 I had no previous experience with using JavaScript prior to this class, I had worked
 with other programming languages such as C and Java that allowed for some of the
 syntax to be recognizable.  Upon completing the Introduction to JavaScript module on
 FreeCodeCamp, Javascript didn't seem so bad once you get used to working with it.
+
+<img class="ui large rounded image" src="../images/js.png">
 
 Despite the familiar loops, comparators, and control statements that mirror the Java
 programming language, JavaScript is a loosely typed language meaning that you do
