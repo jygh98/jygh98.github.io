@@ -9,6 +9,7 @@ labels:
   - Learning
   - Javascript
 ---
+<div>
 <img class="ui image" src="../images/js.png">
 </div>
 
