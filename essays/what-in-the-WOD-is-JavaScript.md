@@ -9,10 +9,7 @@ labels:
   - Learning
   - Javascript
 ---
-<div>
-<img class="ui image" src="../images/js.png">
-</div>
-
+<img class="ui medium right floated rounded image" src="../images/js.png">
 Before I can dive into the world of web development and attempt to build my very
 first website, I realized I needed to first learn a bit of HTML, CSS, and JavaScript.  Although
 I had no previous experience with using JavaScript prior to this class, I had worked
