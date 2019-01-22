@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/tf.jpeg
-title: Human Activity Recognition
+title: Activity Recognizer
 permalink: projects/har
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-01
@@ -11,7 +11,7 @@ labels:
   - TensorFlow
   - Deep Learning
   - Sensors
-summary: Trained Convolution Neural Network (CNN) to predict human activity using smartphone sensor data.
+summary: Convolution Neural Network (CNN) to predict human activity using smartphone sensor data.
 ---
 <div>
   <img class="ui image" src="../images/har.png">
@@ -21,4 +21,4 @@ The goal of the project was to build a recognition system using deep learning th
 
 I was responsible for develop a front-end interface for this recognition system.  I developed an android application that integrated the pre-trained TensorFlow model and display the predicted activity.  Additionally, I worked on developing processing techniques that would reduce noise from real-time accelerometer and gyroscope data of the smartphone.  I ended up implementing a low-pass filter that was able to stabilize the noisy accelerometer signal
 
-In this project, In this project, I gained experience using Android SDK for development and TensorFlow in implementing and training a CNN model.  Additionally, I was able to learn firsthand about deep learning, neural networks, and how these technologies are being used in research projects as the laboratory I was working on focused on machine learning.
+In this project, In this project, I gained experience using Android SDK for development and TensorFlow with implementing and training a CNN model.  Additionally, I was able to learn firsthand about deep learning, neural networks, and how these technologies are being used in research projects as the laboratory I was working on focused on machine learning.
