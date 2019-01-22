@@ -14,7 +14,7 @@ summary: My team developed a robotic mouse for our sophomore level project.
 ---
 A micromouse is a small robotic vehicle designed to navigate its way through an unknown maze. It is an autonomous, battery-operated, and self-contained robot that utilizes maze-solving algorithms to find the optimal route with the shortest run time to the center of the maze. The main challenge is to equip the electro-mechanical device with adaptive intelligence which enables the exploration of different maze configurations.  By combining these components, an autonomous mouse capable of navigating through a maze was designed, built, and programmed.
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/micromouse.png">
   <img class="ui image" src="../images/schematic.png">
   <img class="ui image" src="../images/pcb.png">
