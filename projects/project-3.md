@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/tf.jpeg
+image: images/tf.png
 title: Activity Recognizer
 permalink: projects/har
 # All dates must be YYYY-MM-DD format!
