@@ -19,7 +19,7 @@ Currently, the use of [commercial data loggers](https://www.onsetcomp.com/produc
 ## Responsibilites
 The data logger was built using an [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/), [Si7021 Temperature and Humidity Sensor](https://www.adafruit.com/product/3251), and [TSL2561 Luminosity Sensor](https://www.adafruit.com/product/439).  Firmware was developed for the Raspberry Pi to consistently record data and upload to a remote database.  Additionally bash scripts were written for quality assurance including routinely reboot, track data logger uptime, and ensure logging scripts to be running.  Once the preliminary features were implemented and the data logger was built, the datalogger was deployed inside the office over the course of a month, monitoring it for temperature and general processes.  
 
-<img class="ui image" src="../images/raspi.jpg">
+<img class="ui image" src="../images/raspi_wide.jpg">
 
 ## Learning Outcome
 As the individual contributor to this project, I was responsible for all aspect of the project.  This included starting from deciding what parts to use (microcontroller, sensors) to programming, testing, and finally deploying the unit.  I gain additional experience working with Raspberry Pi, Python programming, and writing Bash scripts.  From this, I became a lot more comfortable working in a Linux-based environment and working through the command-line interface.
