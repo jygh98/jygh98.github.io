@@ -17,9 +17,9 @@ A micromouse is a small robotic vehicle designed to navigate its way through an 
 ## Responsibilites
 For this project, I was responsible with the hardware portion of the project.  For this project, all the necessary hardware components such as IC chips, sensors, and motors were given to us.  Then the hardware portion of this project mainly consisted of figuring how to connect all these parts and then testing that the components work.  In particular, I was in charge of designing the PCB and helped in populating the board with the various electronical components.  Additionally, I helped in debugging and testing the PCB to ensure that the all the hardware components were working as intended.
 
-<div class="two wide column">
-  <img class="ui rounded fluid image" src="../images/schematic.png" data-action="zoom">
-  <img class="ui rounded fluid image" src="../images/pcb.png" data-action="zoom">
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/schematic.png">
+  <img class="ui image" src="../images/pcb.png">
 </div>
 
 
