@@ -106,8 +106,8 @@
       "endDate": "2018-08-16",
       "summary": "Sensor-based activity recognition research surrounding the use of smart devices to predict human activity",
       "highlights": [
-        "Developed android application to integrate trained TensorFlow model to display predicted activity",
-        "Implemented low-pass filter on raw accelerometer and gyroscope readings to minimize signal noise"
+        "Developed android sensor logger application to record and label sensor readings used to build a labeled training dataset",
+        "Implemented low-pass filter algorithm to reduce input accelerometer signal noise"
       ]
     }
   ],
