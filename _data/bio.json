@@ -107,7 +107,7 @@
       "summary": "Sensor-based activity recognition research surrounding the use of smart devices to predict human activity",
       "highlights": [
         "Developed android sensor logger application to record and label sensor readings used to build a labeled training dataset",
-        "Implemented low-pass filter algorithm to reduce input accelerometer signal noise"
+        "Implemented digital low-pass filter algorithm to reduce input accelerometer signal noise"
       ]
     }
   ],
