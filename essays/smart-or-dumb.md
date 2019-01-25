@@ -28,7 +28,7 @@ take at two examples of questions being asking the "smart way" and "not smart wa
 > I don't know how the command to extract the information from the file, I did some research and found this is the closest thing but 
 > It just isn't what I need: How do I get python to read only every other line from a file that contains a poem
 
-This here is an example of a question being asked the "not smart way" on StackOverflow which resulted in the post being closed.
+This here is an [example of a question being asked the "not smart way"](https://stackoverflow.com/questions/40931904/how-do-i-get-python-to-read-and-extract-words-from-a-text-file?noredirect=1&lq=1) on StackOverflow which resulted in the post being closed.
 When reading the question body, the wording is vague and it is not exactly clear how the poster is trying to implement it.  In addition,
 the writing appears sloppy and appears that the only effect made by the poster a quick Google search.  When writing a question
 to be asked, make sure that it is presented in a clear, concise, and coherent manner so that readers are better equipped to provide
@@ -42,7 +42,7 @@ to begin with.
 > Is there really no standard function that works like the unix `cp -r` command, i.e. supports both directories and files and copies recursively? 
 > What would be the most elegant way to work around this problem in Python?
 
-Now, here is an example of a question being asked the "smart way".  The poster does an excellent job explaining their current understanding
+Now, here is an [example of a question being asked the "smart way"](https://stackoverflow.com/questions/1994488/copy-file-or-directories-recursively-in-python?noredirect=1&lq=1).  The poster does an excellent job explaining their current understanding
 of the question in attempt to provide background context for the reader.  In addition, they have an general idea of the solution
 and has put in effort to figure a solution but has been unsuccessful.  These type of questions are being asked the "smart way" as
 they lead to better reception by the reader and therefore quality answers.  As programmers, asking smart questions is essential to how we learn 
