@@ -25,4 +25,4 @@ Using Semantic UI for me has made web development much more tolerable as I am ab
 as opposed to writing raw HTML/CSS.  The documentation and natural syntax has made using Semantic UI relatively easy to use 
 in developing modern-looking webpages.  With all considered, using UI frameworks such as Semantic UI is convenient and
 practical for any web developers who is looking to build a functional webpage quickly.  More importantly frameworks offer 
-ready-to-use componenets avaiable to the development community to be used, so why would I redo the work that they did?
+ready-to-use components available to the development community to be used, so why would I redo the work that they did?
