@@ -9,7 +9,7 @@ labels:
   - Semantic UI
 ---
 
-<img class="ui small right floated rounded image" src="../images/framework.png">
+<img class="ui large right floated rounded image" src="../images/framework.png">
 
 I will admit, the initial time investment required to sift through documentation with learning an UI framework can be 
 discouraging you from picking it up.  However by learning a framework, you will gain the ability to build clean and 
