@@ -9,7 +9,7 @@ labels:
   - Semantic UI
 ---
 
-<img class="ui large right floated rounded image" src="../images/framework.png">
+<img class="ui medium right floated rounded image" src="../images/framework.png">
 
 I will admit, the initial time investment required to sift through documentation with learning an UI framework can be 
 discouraging you from picking it up.  However by learning a framework, you will gain the ability to build clean and 
@@ -23,6 +23,6 @@ utilizing ready-to-use components is what makes using an UI framework useful for
 
 Using Semantic UI for me has made web development much more tolerable as I am able to focus more of my time on implementation
 as opposed to writing raw HTML/CSS.  The documentation and natural syntax has made using Semantic UI relatively easy to use 
-in developing modern-looking webpages.  With all considered, using UI frameworks such as Semantic UI is convenient and practical for 
-any web developers who is looking to build a functional webpage quickly.  More importantly frameworks offer ready-to-use 
-componenets avaiable to the development community to be used, so why would I redo the work that they did?
+in developing modern-looking webpages.  With all considered, using UI frameworks such as Semantic UI is convenient and
+practical for any web developers who is looking to build a functional webpage quickly.  More importantly frameworks offer 
+ready-to-use componenets avaiable to the development community to be used, so why would I redo the work that they did?
