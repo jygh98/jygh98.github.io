@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - Ethics
 ---
-<img class="ui large rounded image" src="../images/ethics.jpg">
+<img class="ui medium right floated rounded image" src="../images/ethics.jpg">
 
 Ethics is the set of rules and standards that people adhere to as a moral obligation to the way we live in today's world. 
 When ethics are not followed, disaster often occurs which not only includes large monetary costs and 
