@@ -27,4 +27,9 @@ thought it was because of the name of the CSS file I created.
 "Why did you put the CSS file here?" was the first thing she asked.  I explained to her that it was a convenient for me at the
 time to place it there.  Unsatisfied with my answer, she stressed the importance of maintaining the set design pattern in a 
 project as these are accepted industry solutions to software system designs such as how a web application is built and
-maintained.  "Do you know what MVC is?" was the next thing she asked to which I quickly said no.
+maintained.  "Do you know what MVC is?" was the next thing she asked to which I quickly said no.  It was only now that I 
+realize that along with the frameworks and libraries that I was learning I needed to add design patterns to my list of 
+"things to learn".  MVC or Model-View-Controller Pattern is one example of a design pattern that I used in the web-application
+project.  The issue with my first pull request was that I should've placed my CSS file into the View section since it dealt
+with the data being modeled.  The use of design pattern in this project allow for efficient code reuse and parallel
+development of both the front and back ends as MVC separates the web application into separate but interconnected components.
