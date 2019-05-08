@@ -33,7 +33,10 @@ that we learned in this project was using JavaScript, Semantic UI, React, and Me
 Galaxy for deployment.
 
 ## Screenshots
+### Search Bar
 <img class="ui image" src="../images/searchbar.png">
+
+### Rating Section
 <img class="ui image" src="../images/rating.png">
 
 [Organization Github Page](https://ono-manoa-grindz.github.io/)
