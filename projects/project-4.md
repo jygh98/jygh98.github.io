@@ -12,8 +12,7 @@ labels:
   - Semantic UI
   - Meteor
   - Web Development
-summary: Web application built for our ICS 314 Final Project that showcases the variety of food vendors who operates 
-here at the UH Manoa campus.
+summary: Web application built for our ICS 314 Final Project that showcases the variety of food vendors who operates here at UH Manoa Campus
 ---
 
 ## Overview
@@ -34,5 +33,7 @@ that we learned in this project was using JavaScript, Semantic UI, React, and Me
 Galaxy for deployment.
 
 ## Screenshots
+<img class="ui image" src="../images/searchbar.png">
+<img class="ui image" src="../images/rating.png">
 
 [Organization Github Page](https://ono-manoa-grindz.github.io/)
